@@ -1,0 +1,4 @@
+10132059;  ./musica.sh &
+10132100;  firefox &
+10132101;  ./spooky.sh &
+
